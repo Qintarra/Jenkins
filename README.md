@@ -1,3 +1,3 @@
 # demo
 
-content placeholder
+non fast-forward merge
